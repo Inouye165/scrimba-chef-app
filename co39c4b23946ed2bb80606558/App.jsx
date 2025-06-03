@@ -1,11 +1,13 @@
-import Header from "./Header"
-import Main from "./Main"
+import React from "react"
 
 export default function App() {
-  return (
-    <>
-      <Header />
-      <Main />
-    </>
-  )
+    const [isImportant, func] = React.useState("Yes")
+    console.log(isImportant)
+    
+    return (
+        <main>
+            <h1 className="title">Is state important to know?</h1>
+            <button className="value">{isImportant}</button>
+        </main>
+    )
 }
