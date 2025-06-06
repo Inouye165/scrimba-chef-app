@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "question": "In the troubleshooting process, testing the theory to determine probable problem cause can also involve asking for assistance of more experienced peers.",
+    "options": [
+      {"text": "True", "isCorrect": true},
+      {"text": "False", "isCorrect": false}
+    ],
+    "userAnswer": "True"
+  },
+  {
+    "id": 2,
+    "question": "Which step of the troubleshooting process involves establishing a plan of action to resolve the problem?",
+    "options": [
+      {"text": "First step", "isCorrect": false},
+      {"text": "Second step", "isCorrect": false},
+      {"text": "Third step", "isCorrect": false},
+      {"text": "Fourth step", "isCorrect": true},
+      {"text": "Fifth step", "isCorrect": false},
+      {"text": "Sixth step", "isCorrect": false}
+    ],
+    "userAnswer": "Third step"
+  },
+  {
+    "id": 3,
+    "question": "Once a plan of action to resolve the problem has been established, the next step in the troubleshooting process should be:",
+    "options": [
+      {"text": "Conducting external or internal research based on symptoms", "isCorrect": false},
+      {"text": "Testing the theory to determine problem cause", "isCorrect": false},
+      {"text": "Implementing the solution", "isCorrect": true},
+      {"text": "Establishing a theory of probable cause of the problem", "isCorrect": false}
+    ],
+    "userAnswer": "Implementing the solution"
+  },
+  {
+    "id": 4,
+    "question": "According to the troubleshooting methodology, verification of full system functionality and implementation of applicable preventive measures should be performed as the:",
+    "options": [
+      {"text": "Next step after documenting findings, actions, and outcomes", "isCorrect": false},
+      {"text": "First step of the troubleshooting process", "isCorrect": false},
+      {"text": "Next step after implementing the solution", "isCorrect": true},
+      {"text": "Last step of the troubleshooting process", "isCorrect": false}
+    ],
+    "userAnswer": "Next step after implementing the solution"
+  },
+  {
+    "id": 5,
+    "question": "The last step of the troubleshooting process should come as the next consecutive step after: (Select 2 answers)",
+    "options": [
+      {"text": "Implementing the solution", "isCorrect": false},
+      {"text": "Verifying full system functionality", "isCorrect": true},
+      {"text": "Identifying potential effects of the implemented solution", "isCorrect": false},
+      {"text": "Documenting findings, actions, outcomes, and conclusions", "isCorrect": true},
+      {"text": "Implementing preventive measures", "isCorrect": false}
+    ],
+    "userAnswer": ["Documenting findings, actions, outcomes, and conclusions", "Implementing preventive measures"]
+  },
+  {
+    "id": 6,
+    "question": "The last step of the troubleshooting process should involve:",
+    "options": [
+      {"text": "Implementing preventive measures", "isCorrect": false},
+      {"text": "Documenting findings, actions, outcomes, and conclusions", "isCorrect": true},
+      {"text": "Verifying full system functionality", "isCorrect": false},
+      {"text": "Identifying potential effects of the implemented solution", "isCorrect": false}
+    ],
+    "userAnswer": "Identifying potential effects of the implemented solution"
+  },
+  {
+    "id": 7,
+    "question": "A POST card is used for:",
+    "options": [
+      {"text": "Biometric authentication", "isCorrect": false},
+      {"text": "Troubleshooting computer startup problems", "isCorrect": true},
+      {"text": "Terminating SCSI chains", "isCorrect": false},
+      {"text": "Testing connector pins on the NIC port", "isCorrect": false}
+    ],
+    "userAnswer": "Troubleshooting computer startup problems"
+  },
+  {
+    "id": 8,
+    "question": "The Blue Screen of Death (BSoD) (a.k.a. stop error screen) in MS Windows indicates a fatal error that the system cannot fix on the fly to continue operate safely. BSOD provides technical information that might be of help for advanced users in solving the cause of the stop error. In older versions of Microsoft OSs, information displayed on the screen when Windows encountered this type of error typically included error code, memory address where it occurred, and the name of the driver that caused it. Starting from Windows 8, the error screen contains a stop code accompanied by a URL and QR code pointing to relevant troubleshooting resources on the Internet. For Windows to continue to operate BSOD requires a system restart, which happens either automatically, or can be performed manually with the Ctrl + Alt + Delete key combination, or by pressing the computer's power button.",
+    "options": [
+      {"text": "True", "isCorrect": true},
+      {"text": "False", "isCorrect": false}
+    ],
+    "userAnswer": "True"
+  },
+  {
+    "id": 9,
+    "question": "\"Pinwheel\" is an informal term used for describing stop error in:",
+    "options": [
+      {"text": "Android", "isCorrect": false},
+      {"text": "Linux", "isCorrect": false},
+      {"text": "macOS", "isCorrect": true},
+      {"text": "Windows", "isCorrect": false}
+    ],
+    "userAnswer": "macOS"
+  },
+  {
+    "id": 10,
+    "question": "Slow computer performance may be the result of:",
+    "options": [
+      {"text": "Insufficient amount of RAM", "isCorrect": false},
+      {"text": "Depleted internal storage space", "isCorrect": false},
+      {"text": "Storage drive fragmentation", "isCorrect": false},
+      {"text": "Outdated driver software", "isCorrect": false},
+      {"text": "System overheating", "isCorrect": false},
+      {"text": "Malicious software", "isCorrect": false},
+      {"text": "All of the above", "isCorrect": true}
+    ],
+    "userAnswer": "All of the above"
+  },
+  {
+    "id": 11,
+    "question": "In Microsoft OSs, Performance tab in Windows Task Manager allows to identify hardware components affecting system performance. In a similar fashion, Task Manager's Processes tab can be used to identify compute-intensive applications and processes that can be the cause of sluggish system performance.",
+    "options": [
+      {"text": "True", "isCorrect": true},
+      {"text": "False", "isCorrect": false}
+    ],
+    "userAnswer": "True"
+  },
+  {
+    "id": 12,
+    "question": "Excessive dust buildup inside the computer case might be the cause of overheating, which in turn may lead to:",
+    "options": [
+      {"text": "Continuous reboots", "isCorrect": false},
+      {"text": "Unexpected shutdowns", "isCorrect": false},
+      {"text": "Intermittent device failures", "isCorrect": false},
+      {"text": "Hardware damage", "isCorrect": false},
+      {"text": "All of the above", "isCorrect": true}
+    ],
+    "userAnswer": "All of the above"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following actions would solve the problem of leaking/burst/bulged capacitors inside the computer case? (Select 2 answers)",
+    "options": [
+      {"text": "Motherboard replacement", "isCorrect": true},
+      {"text": "Central Processing Unit (CPU) replacement", "isCorrect": false},
+      {"text": "Memory module replacement", "isCorrect": false},
+      {"text": "Power Supply Unit (PSU) replacement", "isCorrect": false},
+      {"text": "Capacitor replacement", "isCorrect": true}
+    ],
+    "userAnswer": ["Motherboard replacement", "Capacitor replacement"]
+  },
+  {
+    "id": 14,
+    "question": "Which of the answers listed below refers to a common solution for BIOS date/time setting resets?",
+    "options": [
+      {"text": "Windows Update", "isCorrect": false},
+      {"text": "Primary storage module replacement", "isCorrect": false},
+      {"text": "Safe mode troubleshooting", "isCorrect": false},
+      {"text": "Motherboard battery replacement", "isCorrect": true}
+    ],
+    "userAnswer": "Motherboard battery replacement"
+  },
+  {
+    "id": 15,
+    "question": "Which state of the HDD LED light typically indicates the drive's normal operation?",
+    "options": [
+      {"text": "No light", "isCorrect": false},
+      {"text": "Intermittent flashing", "isCorrect": true},
+      {"text": "Solid light", "isCorrect": false},
+      {"text": "Continuous flashing", "isCorrect": false}
+    ],
+    "userAnswer": "Intermittent flashing"
+  },
+  {
+    "id": 16,
+    "question": "An actuator arm assembly failure manifested by loud clicking noise emitted from the inside of the computer case is a problem symptom that should prompt for:",
+    "options": [
+      {"text": "Data backup and storage drive replacement", "isCorrect": true},
+      {"text": "Replacement of a faulty cooling fan", "isCorrect": false},
+      {"text": "Central Processing Unit (CPU) replacement", "isCorrect": false},
+      {"text": "Data backup and replacement of a faulty primary storage module", "isCorrect": false},
+      {"text": "Power Supply Unit (PSU) replacement", "isCorrect": false}
+    ],
+    "userAnswer": "Data backup and replacement of a faulty primary storage module"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following could be of help in troubleshooting a system that attempts to boot to incorrect device? (Select 2 answers)",
+    "options": [
+      {"text": "Administrative Tools", "isCorrect": false},
+      {"text": "Disconnecting any removable external drives (e.g., USB thumb drives)", "isCorrect": true},
+      {"text": "Safe mode troubleshooting", "isCorrect": false},
+      {"text": "Checking BIOS settings for boot order", "isCorrect": true},
+      {"text": "Device Manager", "isCorrect": false}
+    ],
+    "userAnswer": ["Disconnecting any removable external drives (e.g., USB thumb drives)", "Checking BIOS settings for boot order"]
+  },
+  {
+    "id": 18,
+    "question": "Restoring a RAID array after physical failure of one of the drives typically requires a very simple fix, which is the replacement of a bad drive. This solution will work for most of the RAID configurations except:",
+    "options": [
+      {"text": "RAID 0", "isCorrect": true},
+      {"text": "RAID 1", "isCorrect": false},
+      {"text": "RAID 5", "isCorrect": false},
+      {"text": "RAID 1+0", "isCorrect": false}
+    ],
+    "userAnswer": "RAID 0"
+  },
+  {
+    "id": 19,
+    "question": "Which of the symptoms listed below might be causing extended read/write times on a storage drive?",
+    "options": [
+      {"text": "Depleted storage space", "isCorrect": false},
+      {"text": "Insufficient amount of RAM", "isCorrect": false},
+      {"text": "Disk fragmentation", "isCorrect": false},
+      {"text": "Loose cable connections", "isCorrect": false},
+      {"text": "Physical hardware faults", "isCorrect": false},
+      {"text": "All of the above", "isCorrect": true}
+    ],
+    "userAnswer": "All of the above"
+  },
+  {
+    "id": 20,
+    "question": "Which of the following metrics might be of help in diagnosing the declining performance of a storage drive?",
+    "options": [
+      {"text": "PPM", "isCorrect": false},
+      {"text": "I/O", "isCorrect": false},
+      {"text": "RPM", "isCorrect": false},
+      {"text": "IOPS", "isCorrect": true}
+    ],
+    "userAnswer": "IOPS"
+  },
+  {
+    "id": 21,
+    "question": "Self-Monitoring, Analysis and Reporting Technology (S.M.A.R.T.) allows for monitoring a system for anticipated:",
+    "options": [
+      {"text": "HDD/SSD failures", "isCorrect": true},
+      {"text": "Network interface problems", "isCorrect": false},
+      {"text": "Video adapter failures", "isCorrect": false},
+      {"text": "Power spikes", "isCorrect": false}
+    ],
+    "userAnswer": "HDD/SSD failures"
+  },
+  {
+    "id": 22,
+    "question": "When a computer monitor is unable to display image on the screen, the most common causes of this problem (and the easiest ones to fix) include: (Select 2 answers)",
+    "options": [
+      {"text": "Inverter failure", "isCorrect": false},
+      {"text": "Loose cable connections", "isCorrect": true},
+      {"text": "Bad LCD display", "isCorrect": false},
+      {"text": "Wrong input selection", "isCorrect": true},
+      {"text": "Backlight failure", "isCorrect": false}
+    ],
+    "userAnswer": ["Loose cable connections", "Wrong input selection"]
+  },
+  {
+    "id": 23,
+    "question": "Which type of peripheral hardware would require the replacement of a burned-out bulb?",
+    "options": [
+      {"text": "Webcam", "isCorrect": false},
+      {"text": "Computer projector", "isCorrect": true},
+      {"text": "Laser printer", "isCorrect": false},
+      {"text": "CRT monitor", "isCorrect": false}
+    ],
+    "userAnswer": "Computer projector"
+  },
+  {
+    "id": 24,
+    "question": "A permanent computer display screen discoloration caused by displaying the same static image for extended periods of time is known as:",
+    "options": [
+      {"text": "Artifact", "isCorrect": false},
+      {"text": "Stuck pixel", "isCorrect": false},
+      {"text": "Burn-in", "isCorrect": true},
+      {"text": "Dead pixel", "isCorrect": false}
+    ],
+    "userAnswer": "Burn-in"
+  },
+  {
+    "id": 25,
+    "question": "A tiny spot on an LCD monitor display screen that permanently remains black when it should be activated and displaying color is commonly referred to as stuck pixel.",
+    "options": [
+      {"text": "True", "isCorrect": false},
+      {"text": "False", "isCorrect": true}
+    ],
+    "userAnswer": "False"
+  }
+]
