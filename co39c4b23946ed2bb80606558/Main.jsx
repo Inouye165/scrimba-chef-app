@@ -5,9 +5,7 @@ import ClaudeRecipe from "./components/ClaudeRecipe"
 import { getRecipeFromChefClaude } from "./ai.js"
 
 export default function Main() {
-    const [ingredients, setIngredients] = React.useState(
-        ["all the main spices", "pasta", "ground beef", "tomato paste"]
-    );
+    const [ingredients, setIngredients] = React.useState([""]);
     const [recipe, setRecipe] = React.useState("");
     const [isLoading, setIsLoading] = React.useState(false);
     
