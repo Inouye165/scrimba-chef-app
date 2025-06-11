@@ -104,3 +104,30 @@ ul.ingredients-list > li {
     font-size: 0.875rem;
     cursor: pointer;
 }
+
+/* Add to bottom of index.css */
+
+.recipe-container {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    border: 1px solid #eee;
+}
+
+.recipe-container h3 {
+    margin-top: 0;
+}
+
+.recipe-container pre {
+    white-space: pre-wrap;  /* Helps with line breaks */
+    word-wrap: break-word;    /* Prevents long lines from overflowing */
+    font-family: Inter, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.get-recipe-container button:disabled {
+    background: #a0a0a0;
+    cursor: not-allowed;
+}

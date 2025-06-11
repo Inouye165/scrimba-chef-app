@@ -1,12 +1,14 @@
 {
   "name": "project",
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.54.0",
+    "@huggingface/inference": "^4.0.4",
     "react": "19.0.0-rc-8b08e99e-20240713",
     "react-dom": "19.0.0-rc-8b08e99e-20240713"
   },
   "devDependencies": {
-    "vite": "latest",
-    "@vitejs/plugin-react": "*"
+    "@vitejs/plugin-react": "*",
+    "vite": "latest"
   },
   "scripts": {
     "start": "vite",
