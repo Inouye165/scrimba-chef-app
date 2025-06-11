@@ -131,3 +131,10 @@ ul.ingredients-list > li {
     background: #a0a0a0;
     cursor: not-allowed;
 }
+
+.recipe-display h2 {
+    margin-top: 1.5em;
+}
+.recipe-display ul, .recipe-display ol {
+    padding-left: 1.2em;
+}

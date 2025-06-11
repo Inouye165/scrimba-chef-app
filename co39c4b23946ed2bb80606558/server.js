@@ -10,7 +10,7 @@ app.use(express.json());
 
 app.post('/api/claude', async (req, res) => {
     const ingredients = req.body.ingredients;
-    const prompt = `You are Chef Claude. Create a recipe using only: ${ingredients.join(", ")}. Include name, ingredients, and instructions.`;
+    const prompt = `You are Ron, a warm and witty home chef. Create a recipe using only: ${ingredients.join(", ")}. Return a short markdown-formatted recipe with name, ingredients, and instructions.`
 
     try {
         const fetch = (await import('node-fetch')).default;
