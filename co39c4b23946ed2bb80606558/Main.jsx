@@ -66,7 +66,22 @@ async function getRecipe() {
             {ingredients.length > 0 && (
                 <section>
                     <h2>Ingredients on hand:</h2>
-                    <ul>{ingredients.map(item => <li key={item}>{item}</li>)}</ul>
+<ul>
+  {ingredients.map((item, index) => (
+    <li key={item}>
+      {item}
+      <button
+        onClick={() =>
+          setIngredients(prev => prev.filter((_, i) => i !== index))
+        }
+        aria-label={`Remove ${item}`}
+        style={{ marginLeft: "0.5em" }}
+      >
+        ❌
+      </button>
+    </li>
+  ))}
+</ul>
                     <button onClick={getRecipe}>Get a recipe</button>
                 </section>
             )}
